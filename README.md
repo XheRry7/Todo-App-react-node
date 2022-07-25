@@ -3,13 +3,12 @@
 To get started, simply clone this repository and using `npm` install all the project dependencies. You may need to go over some basic configuration steps.
 
 ```
-git clone https://github.com/Hamid-Akhtar/outlast_bookshop.git
-cd outlast_bookshop
+git clone https://github.com/XheRry7/Todo-App-react-node/tree/master
 npm install
 npm start
 
 # SETUP FRONTEND
-cd outlast_bookshop/client
+cd Frontend
 npm install
 npm start
 ```
